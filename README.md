@@ -13,3 +13,6 @@ The dataset used for this project is sourced from Kaggle: [TMDB Movie Metadata](
 Ensure you have the necessary dependencies installed. You can install them using the following command:
 ```bash
 pip install -r requirements.txt
+
+git clone https://github.com/your-username/movie-recommender-system.git
+cd movie-recommender-system
