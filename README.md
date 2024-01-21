@@ -14,5 +14,15 @@ Ensure you have the necessary dependencies installed. You can install them using
 ```bash
 pip install -r requirements.txt
 
-git clone https://github.com/your-username/movie-recommender-system.git
-cd movie-recommender-system
+## Features and Experimentation
+- Experiment with different features (genres, keywords, cast, etc.) to enhance the recommendation results.
+- Provide feedback on the user interface and explore ways to improve the user experience.
+
+## Acknowledgments
+- The TMDB Movie Metadata dataset is provided by Kaggle: TMDB Movie Metadata.
+
+## Contributing
+- Feel free to contribute to the project by submitting pull requests. For major changes, please open an issue first to discuss the proposed changes.
+
+## License
+- This project is licensed under the MIT License - see the LICENSE file for details.
